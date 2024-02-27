@@ -1,0 +1,24 @@
+{
+  "name": "@arraylasted/chat-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arraylasted/chat-gpt.git"
+  },
+  "keywords": [
+    "npm",
+    "chat-gpt",
+    "nodejs"
+  ],
+  "author": "arraylast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arraylasted/chat-gpt/issues"
+  },
+  "homepage": "https://github.com/arraylasted/chat-gpt#readme"
+}
