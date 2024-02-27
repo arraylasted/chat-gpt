@@ -1,8 +1,12 @@
 {
   "name": "@arraylasted/chat-gpt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "gpt3-cli": "1.6.0"
+    "chatgpt": "5.2.5"
+  },
   "scripts": {
     "test": "0"
   },
