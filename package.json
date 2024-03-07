@@ -1,6 +1,6 @@
 {
-  "name": "@arraylasted/chat-gpt",
-  "version": "1.0.1",
+  "name": "arraylast-chat-gpt",
+  "version": "1.1.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arraylasted/chat-gpt.git"
+    "url": "https://github.com/arraylasted/chat-gpt"
   },
   "keywords": [
     "npm",
